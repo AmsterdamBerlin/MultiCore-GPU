@@ -1,0 +1,7 @@
+Assignment 4 - GPU and CUDA 1
+
+26th Jan. 2017
+
+This program can be tested for different block sizes without re-compiling it.
+
+After the first compiling, input "./outputfile_name 16 16 (16x16)" to test different block sizes. This procedure can repeat without re-compiling.

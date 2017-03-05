@@ -1,0 +1,99 @@
+ -------------16 * 16-----------------  
+gpgpu_simulation_time = 0 days, 0 hrs, 3 min, 8 sec (188 sec)
+gpgpu_simulation_rate = 281155 (inst/sec)
+gpgpu_simulation_rate = 1052 (cycle/sec)
+
+gpu_sim_cycle = 197930
+gpu_sim_insn = 52857183
+gpu_ipc =     267.0499
+
+Warp Occupancy Distribution:
+Stall:545179	W0_Idle:346437	W0_Scoreboard:209868	W1:736924	W2:390608	W3:236500	W4:170576	W5:125476	W6:108432	W7:83354	W8:69392	W9:64074	W10:56288	W11:48960	W12:45440	W13:40592	W14:38960	W15:32736	W16:32480	W17:27936	W18:25296	W19:21840	W20:23696	W21:21728	W22:23008	W23:18608	W24:21488	W25:15728	W26:15856	W27:14944	W28:14896	W29:15072	W30:18032	W31:17104	W32:1240080
+
+--------------- 32 * 8 ---------------------
+gpgpu_simulation_time = 0 days, 0 hrs, 3 min, 38 sec (218 sec)
+gpgpu_simulation_rate = 242464 (inst/sec)
+gpgpu_simulation_rate = 904 (cycle/sec)
+
+gpu_sim_cycle = 197117
+gpu_sim_insn = 52857183
+gpu_ipc =     268.1513
+
+Warp Occupancy Distribution:
+Stall:609903	W0_Idle:385893	W0_Scoreboard:206870	W1:934568	W2:462518	W3:292862	W4:198174	W5:154462	W6:127232	W7:100688	W8:89872	W9:75392	W10:71232	W11:64816	W12:59872	W13:47008	W14:39616	W15:38016	W16:34624	W17:32736	W18:29936	W19:34912	W20:26208	W21:26816	W22:27920	W23:27312	W24:27328	W25:27648	W26:24640	W27:22160	W28:23824	W29:17904	W30:16752	W31:18592	W32:1113552
+
+-------------------- 8 * 32 -------------------
+gpgpu_simulation_time = 0 days, 0 hrs, 3 min, 1 sec (181 sec)
+gpgpu_simulation_rate = 292028 (inst/sec)
+gpgpu_simulation_rate = 914 (cycle/sec)
+
+gpu_sim_cycle = 165604
+gpu_sim_insn = 52857183
+gpu_ipc =     319.1782
+
+Warp Occupancy Distribution:
+Stall:497540	W0_Idle:324175	W0_Scoreboard:213047	W1:643124	W2:330156	W3:219420	W4:145082	W5:107962	W6:95098	W7:77194	W8:59322	W9:54784	W10:45104	W11:39776	W12:35664	W13:32368	W14:30288	W15:27088	W16:28592	W17:22688	W18:20160	W19:19600	W20:19760	W21:17280	W22:17152	W23:16752	W24:17552	W25:15248	W26:14112	W27:13792	W28:15632	W29:17696	W30:19120	W31:22080	W32:1299936
+
+--------------- 8 * 8 ---------------------
+gpgpu_simulation_time = 0 days, 0 hrs, 3 min, 18 sec (198 sec)
+gpgpu_simulation_rate = 266955 (inst/sec)
+gpgpu_simulation_rate = 793 (cycle/sec)
+
+gpu_sim_cycle = 157033
+gpu_sim_insn = 52857183
+gpu_ipc =     336.5992
+
+Warp Occupancy Distribution:
+Stall:298224	W0_Idle:91904	W0_Scoreboard:595058	W1:643124	W2:330156	W3:219420	W4:145082	W5:107962	W6:95098	W7:77194	W8:59322	W9:54784	W10:45104	W11:39776	W12:35664	W13:32368	W14:30288	W15:27088	W16:28592	W17:22688	W18:20160	W19:19600	W20:19760	W21:17280	W22:17152	W23:16752	W24:17552	W25:15248	W26:14112	W27:13792	W28:15632	W29:17696	W30:19120	W31:22080	W32:1299936
+
+-------------------- 4 * 4 ---------------------------
+gpgpu_simulation_time = 0 days, 0 hrs, 4 min, 55 sec (295 sec)
+gpgpu_simulation_rate = 179176 (inst/sec)
+gpgpu_simulation_rate = 1072 (cycle/sec)
+
+gpu_sim_cycle = 316427
+gpu_sim_insn = 52857183
+gpu_ipc =     167.0439
+
+Warp Occupancy Distribution:
+Stall:20105	W0_Idle:134547	W0_Scoreboard:3249990	W1:1118294	W2:554096	W3:329598	W4:222730	W5:163364	W6:123664	W7:100576	W8:92698	W9:75008	W10:61056	W11:62176	W12:61872	W13:54768	W14:55568	W15:68512	W16:2739728	W17:0	W18:0	W19:0	W20:0	W21:0	W22:0	W23:0	W24:0	W25:0	W26:0	W27:0	W28:0	W29:0W30:0	W31:0	W32:0
+
+----------------------- 1 ----------------------
+ > 18 mins
+ 
+ --------------- 16 ---------------------
+gpgpu_simulation_time = 0 days, 0 hrs, 5 min, 49 sec (349 sec)
+gpgpu_simulation_rate = 151453 (inst/sec)
+gpgpu_simulation_rate = 1009 (cycle/sec)
+
+gpu_sim_cycle = 352261
+gpu_sim_insn = 52857183
+gpu_ipc =     150.0512
+
+Warp Occupancy Distribution:
+Stall:22372	W0_Idle:126538	W0_Scoreboard:3607426	W1:1448772	W2:709748	W3:416580	W4:302180	W5:229012	W6:186304	W7:153888	W8:123984	W9:108368	W10:92624	W11:83680	W12:80336	W13:61248	W14:56400	W15:56592	W16:2518528	W17:0	W18:0	W19:0	W20:0	W21:0	W22:0	W23:0	W24:0	W25:0	W26:0	W27:0	W28:0	W29:0W30:0	W31:0	W32:0
+
+--------------------- 32 ------------------
+gpgpu_simulation_time = 0 days, 0 hrs, 4 min, 15 sec (255 sec)
+gpgpu_simulation_rate = 207283 (inst/sec)
+gpgpu_simulation_rate = 909 (cycle/sec)
+
+gpu_sim_cycle = 231923
+gpu_sim_insn = 52857183
+gpu_ipc =     227.9083
+
+Warp Occupancy Distribution:
+Stall:14583	W0_Idle:124849	W0_Scoreboard:2369746	W1:934568	W2:462518	W3:292862	W4:198174	W5:154462	W6:127232	W7:100688	W8:89872	W9:75392	W10:71232	W11:64816	W12:59872	W13:47008	W14:39616	W15:38016	W16:34624	W17:32736	W18:29936	W19:34912	W20:26208	W21:26816	W22:27920	W23:27312	W24:27328	W25:27648	W26:24640	W27:22160	W28:23824	W29:17904	W30:16752	W31:18592	W32:1113552
+
+--------------------- 256 ---------------
+gpgpu_simulation_time = 0 days, 0 hrs, 3 min, 43 sec (223 sec)
+gpgpu_simulation_rate = 237027 (inst/sec)
+gpgpu_simulation_rate = 895 (cycle/sec)
+
+gpu_sim_cycle = 199596
+gpu_sim_insn = 52857183
+gpu_ipc =     264.8209
+
+Warp Occupancy Distribution:
+Stall:593285	W0_Idle:528597	W0_Scoreboard:225626	W1:934568	W2:462518	W3:292862	W4:198174	W5:154462	W6:127232	W7:100688	W8:89872	W9:75392	W10:71232	W11:64816	W12:59872	W13:47008	W14:39616	W15:38016	W16:34624	W17:32736	W18:29936	W19:34912	W20:26208	W21:26816	W22:27920	W23:27312	W24:27328	W25:27648	W26:24640	W27:22160	W28:23824	W29:17904	W30:16752	W31:18592	W32:1113552
+
